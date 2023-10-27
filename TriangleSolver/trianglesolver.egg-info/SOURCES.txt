@@ -1,0 +1,7 @@
+background.png
+setup.py
+solution.jpg
+trianglesolver.egg-info/PKG-INFO
+trianglesolver.egg-info/SOURCES.txt
+trianglesolver.egg-info/dependency_links.txt
+trianglesolver.egg-info/top_level.txt
